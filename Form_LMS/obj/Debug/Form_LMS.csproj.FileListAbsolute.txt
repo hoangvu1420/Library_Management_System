@@ -1,0 +1,210 @@
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Form_LMS.exe.config
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Form_LMS.exe
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Form_LMS.pdb
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.csproj.AssemblyReference.cache
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.Book_management.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.Member_management.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.Menu_form.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.Properties.Resources.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.csproj.GenerateResource.cache
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.csproj.CoreCompileInputs.cache
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.exe
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.pdb
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Azure.Core.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Azure.Identity.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Buffers.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Memory.Data.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Memory.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Security.AccessControl.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Security.Permissions.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Text.Json.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.ValueTuple.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Azure.Core.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Azure.Identity.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Buffers.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Memory.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Memory.Data.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Security.AccessControl.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Security.Permissions.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Text.Json.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\System.ValueTuple.xml
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.csproj.CopyComplete
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_bookList.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_BookQuery.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_BookInsert.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_BookUpdate.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_MemberInsert.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_MemberList.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_MemberUpdate.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_MemberQuery.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_TransMembership.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_TransLoan.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_TransPayment1.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_TransReturn.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.Add_transaction.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_TransPayment.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.Transaction_record.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_RecordLoan.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_RecordReturn.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_RecordFine.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_RecordPayment.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\obj\Debug\Form_LMS.uc_RecordStatistics.resources
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\FPTSHOP\source\repos\Form_LMS\Form_LMS\bin\Debug\Bunifu.Licensing.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Form_LMS.exe.config
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Form_LMS.exe
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Form_LMS.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Azure.Core.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Azure.Identity.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.Identity.Client.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Buffers.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Memory.Data.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Memory.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Numerics.Vectors.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Security.AccessControl.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Security.Permissions.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Security.Principal.Windows.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Text.Encodings.Web.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Text.Json.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.ValueTuple.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Bunifu.Licensing.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Azure.Core.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Azure.Identity.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.Identity.Client.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Buffers.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Memory.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Memory.Data.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Numerics.Vectors.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Security.AccessControl.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Security.Permissions.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Security.Principal.Windows.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Text.Encodings.Web.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Text.Json.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\System.ValueTuple.xml
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.csproj.SuggestedBindingRedirects.cache
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.Add_transaction.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.Book_management.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.Member_management.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.Menu_form.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.Properties.Resources.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.Transaction_record.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_BookList.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_BookQuery.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_BookInsert.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_BookUpdate.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_MemberInsert.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_MemberList.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_MemberQuery.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_MemberUpdate.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_RecordFine.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_RecordLoan.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_RecordPayment.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_RecordReturn.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_RecordStatistics.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_TransLoan.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_TransMembership.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_TransPayment.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_TransPayment1.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.uc_TransReturn.resources
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.csproj.GenerateResource.cache
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.csproj.CopyComplete
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.exe
+D:\OneDrive - Hanoi University of Science and Technology\Flavour\10_HoangNguyenVu\Form_LMS\obj\Debug\Form_LMS.pdb
